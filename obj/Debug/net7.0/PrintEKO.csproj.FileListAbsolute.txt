@@ -1,0 +1,15 @@
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\bin\Debug\net7.0\PrintEKO.exe
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\bin\Debug\net7.0\PrintEKO.deps.json
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\bin\Debug\net7.0\PrintEKO.runtimeconfig.json
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\bin\Debug\net7.0\PrintEKO.dll
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\bin\Debug\net7.0\PrintEKO.pdb
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\obj\Debug\net7.0\PrintEKO.csproj.AssemblyReference.cache
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\obj\Debug\net7.0\PrintEKO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\obj\Debug\net7.0\PrintEKO.AssemblyInfoInputs.cache
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\obj\Debug\net7.0\PrintEKO.AssemblyInfo.cs
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\obj\Debug\net7.0\PrintEKO.csproj.CoreCompileInputs.cache
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\obj\Debug\net7.0\PrintEKO.dll
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\obj\Debug\net7.0\refint\PrintEKO.dll
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\obj\Debug\net7.0\PrintEKO.pdb
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\obj\Debug\net7.0\PrintEKO.genruntimeconfig.cache
+C:\Users\Khaled Oweas\Desktop\testdotnetcli\PrintEKO\obj\Debug\net7.0\ref\PrintEKO.dll
